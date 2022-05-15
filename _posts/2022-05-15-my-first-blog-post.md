@@ -1,5 +1,5 @@
 ---
-title: Study plan
+title: "Study plan"
 date: 2022-05-15
 ---
 
